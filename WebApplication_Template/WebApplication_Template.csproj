@@ -48,6 +48,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data.Linq" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -125,6 +126,11 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="hris.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>hris.dbml</DependentUpon>
+    </Compile>
     <Compile Include="Models\Data.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -146,6 +152,11 @@
     <Content Include="Views\Shared\_LayoutPageMaster.cshtml" />
     <Content Include="Views\Sample\Index.cshtml" />
     <Content Include="Views\Sample\index01.cshtml" />
+    <Content Include="hris.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>hris.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -156,6 +167,14 @@
   <ItemGroup>
     <Folder Include="Contents\Icons\" />
     <Folder Include="Contents\Logo\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="hris.dbml.layout">
+      <DependentUpon>hris.dbml</DependentUpon>
+    </Content>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
