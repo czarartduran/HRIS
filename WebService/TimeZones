@@ -1,0 +1,828 @@
+﻿=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Dateline Standard Time
+DisplayName: (UTC-12:00) International Date Line West
+Offset: -12:00:00
+StandardName: Dateline Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: UTC-11
+DisplayName: (UTC-11:00) Coordinated Universal Time-11
+Offset: -11:00:00
+StandardName: UTC-11
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Aleutian Standard Time
+DisplayName: (UTC-10:00) Aleutian Islands
+Offset: -10:00:00
+StandardName: Aleutian Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Hawaiian Standard Time
+DisplayName: (UTC-10:00) Hawaii
+Offset: -10:00:00
+StandardName: Hawaiian Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Marquesas Standard Time
+DisplayName: (UTC-09:30) Marquesas Islands
+Offset: -09:30:00
+StandardName: Marquesas Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Alaskan Standard Time
+DisplayName: (UTC-09:00) Alaska
+Offset: -09:00:00
+StandardName: Alaskan Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: UTC-09
+DisplayName: (UTC-09:00) Coordinated Universal Time-09
+Offset: -09:00:00
+StandardName: UTC-09
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Pacific Standard Time (Mexico)
+DisplayName: (UTC-08:00) Baja California
+Offset: -08:00:00
+StandardName: Pacific Standard Time (Mexico)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: UTC-08
+DisplayName: (UTC-08:00) Coordinated Universal Time-08
+Offset: -08:00:00
+StandardName: UTC-08
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Pacific Standard Time
+DisplayName: (UTC-08:00) Pacific Time (US & Canada)
+Offset: -08:00:00
+StandardName: Pacific Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: US Mountain Standard Time
+DisplayName: (UTC-07:00) Arizona
+Offset: -07:00:00
+StandardName: US Mountain Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Mountain Standard Time (Mexico)
+DisplayName: (UTC-07:00) Chihuahua, La Paz, Mazatlan
+Offset: -07:00:00
+StandardName: Mountain Standard Time (Mexico)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Mountain Standard Time
+DisplayName: (UTC-07:00) Mountain Time (US & Canada)
+Offset: -07:00:00
+StandardName: Mountain Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Central America Standard Time
+DisplayName: (UTC-06:00) Central America
+Offset: -06:00:00
+StandardName: Central America Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Central Standard Time
+DisplayName: (UTC-06:00) Central Time (US & Canada)
+Offset: -06:00:00
+StandardName: Central Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Easter Island Standard Time
+DisplayName: (UTC-06:00) Easter Island
+Offset: -06:00:00
+StandardName: Easter Island Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Central Standard Time (Mexico)
+DisplayName: (UTC-06:00) Guadalajara, Mexico City, Monterrey
+Offset: -06:00:00
+StandardName: Central Standard Time (Mexico)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Canada Central Standard Time
+DisplayName: (UTC-06:00) Saskatchewan
+Offset: -06:00:00
+StandardName: Canada Central Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: SA Pacific Standard Time
+DisplayName: (UTC-05:00) Bogota, Lima, Quito, Rio Branco
+Offset: -05:00:00
+StandardName: SA Pacific Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Eastern Standard Time (Mexico)
+DisplayName: (UTC-05:00) Chetumal
+Offset: -05:00:00
+StandardName: Eastern Standard Time (Mexico)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Eastern Standard Time
+DisplayName: (UTC-05:00) Eastern Time (US & Canada)
+Offset: -05:00:00
+StandardName: Eastern Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Haiti Standard Time
+DisplayName: (UTC-05:00) Haiti
+Offset: -05:00:00
+StandardName: Haiti Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Cuba Standard Time
+DisplayName: (UTC-05:00) Havana
+Offset: -05:00:00
+StandardName: Cuba Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: US Eastern Standard Time
+DisplayName: (UTC-05:00) Indiana (East)
+Offset: -05:00:00
+StandardName: US Eastern Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Turks And Caicos Standard Time
+DisplayName: (UTC-05:00) Turks and Caicos
+Offset: -05:00:00
+StandardName: Turks and Caicos Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Paraguay Standard Time
+DisplayName: (UTC-04:00) Asuncion
+Offset: -04:00:00
+StandardName: Paraguay Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Atlantic Standard Time
+DisplayName: (UTC-04:00) Atlantic Time (Canada)
+Offset: -04:00:00
+StandardName: Atlantic Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Venezuela Standard Time
+DisplayName: (UTC-04:00) Caracas
+Offset: -04:00:00
+StandardName: Venezuela Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Central Brazilian Standard Time
+DisplayName: (UTC-04:00) Cuiaba
+Offset: -04:00:00
+StandardName: Central Brazilian Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: SA Western Standard Time
+DisplayName: (UTC-04:00) Georgetown, La Paz, Manaus, San Juan
+Offset: -04:00:00
+StandardName: SA Western Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Pacific SA Standard Time
+DisplayName: (UTC-04:00) Santiago
+Offset: -04:00:00
+StandardName: Pacific SA Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Newfoundland Standard Time
+DisplayName: (UTC-03:30) Newfoundland
+Offset: -03:30:00
+StandardName: Newfoundland Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Tocantins Standard Time
+DisplayName: (UTC-03:00) Araguaina
+Offset: -03:00:00
+StandardName: Tocantins Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: E. South America Standard Time
+DisplayName: (UTC-03:00) Brasilia
+Offset: -03:00:00
+StandardName: E. South America Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: SA Eastern Standard Time
+DisplayName: (UTC-03:00) Cayenne, Fortaleza
+Offset: -03:00:00
+StandardName: SA Eastern Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Argentina Standard Time
+DisplayName: (UTC-03:00) City of Buenos Aires
+Offset: -03:00:00
+StandardName: Argentina Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Greenland Standard Time
+DisplayName: (UTC-03:00) Greenland
+Offset: -03:00:00
+StandardName: Greenland Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Montevideo Standard Time
+DisplayName: (UTC-03:00) Montevideo
+Offset: -03:00:00
+StandardName: Montevideo Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Magallanes Standard Time
+DisplayName: (UTC-03:00) Punta Arenas
+Offset: -03:00:00
+StandardName: Magallanes Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Saint Pierre Standard Time
+DisplayName: (UTC-03:00) Saint Pierre and Miquelon
+Offset: -03:00:00
+StandardName: Saint Pierre Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Bahia Standard Time
+DisplayName: (UTC-03:00) Salvador
+Offset: -03:00:00
+StandardName: Bahia Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: UTC-02
+DisplayName: (UTC-02:00) Coordinated Universal Time-02
+Offset: -02:00:00
+StandardName: UTC-02
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Mid-Atlantic Standard Time
+DisplayName: (UTC-02:00) Mid-Atlantic - Old
+Offset: -02:00:00
+StandardName: Mid-Atlantic Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Azores Standard Time
+DisplayName: (UTC-01:00) Azores
+Offset: -01:00:00
+StandardName: Azores Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Cape Verde Standard Time
+DisplayName: (UTC-01:00) Cabo Verde Is.
+Offset: -01:00:00
+StandardName: Cabo Verde Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: UTC
+DisplayName: (UTC) Coordinated Universal Time
+Offset: 00:00:00
+StandardName: Coordinated Universal Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: GMT Standard Time
+DisplayName: (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Offset: 00:00:00
+StandardName: GMT Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Greenwich Standard Time
+DisplayName: (UTC+00:00) Monrovia, Reykjavik
+Offset: 00:00:00
+StandardName: Greenwich Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Morocco Standard Time
+DisplayName: (UTC+01:00) Casablanca
+Offset: 00:00:00
+StandardName: Morocco Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: W. Europe Standard Time
+DisplayName: (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+Offset: 01:00:00
+StandardName: W. Europe Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Central Europe Standard Time
+DisplayName: (UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague
+Offset: 01:00:00
+StandardName: Central Europe Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Romance Standard Time
+DisplayName: (UTC+01:00) Brussels, Copenhagen, Madrid, Paris
+Offset: 01:00:00
+StandardName: Romance Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Sao Tome Standard Time
+DisplayName: (UTC+01:00) Sao Tome
+Offset: 01:00:00
+StandardName: Sao Tome Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Central European Standard Time
+DisplayName: (UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb
+Offset: 01:00:00
+StandardName: Central European Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: W. Central Africa Standard Time
+DisplayName: (UTC+01:00) West Central Africa
+Offset: 01:00:00
+StandardName: W. Central Africa Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Jordan Standard Time
+DisplayName: (UTC+02:00) Amman
+Offset: 02:00:00
+StandardName: Jordan Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: GTB Standard Time
+DisplayName: (UTC+02:00) Athens, Bucharest
+Offset: 02:00:00
+StandardName: GTB Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Middle East Standard Time
+DisplayName: (UTC+02:00) Beirut
+Offset: 02:00:00
+StandardName: Middle East Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Egypt Standard Time
+DisplayName: (UTC+02:00) Cairo
+Offset: 02:00:00
+StandardName: Egypt Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: E. Europe Standard Time
+DisplayName: (UTC+02:00) Chisinau
+Offset: 02:00:00
+StandardName: E. Europe Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Syria Standard Time
+DisplayName: (UTC+02:00) Damascus
+Offset: 02:00:00
+StandardName: Syria Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: West Bank Standard Time
+DisplayName: (UTC+02:00) Gaza, Hebron
+Offset: 02:00:00
+StandardName: West Bank Gaza Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: South Africa Standard Time
+DisplayName: (UTC+02:00) Harare, Pretoria
+Offset: 02:00:00
+StandardName: South Africa Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: FLE Standard Time
+DisplayName: (UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius
+Offset: 02:00:00
+StandardName: FLE Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Israel Standard Time
+DisplayName: (UTC+02:00) Jerusalem
+Offset: 02:00:00
+StandardName: Jerusalem Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Kaliningrad Standard Time
+DisplayName: (UTC+02:00) Kaliningrad
+Offset: 02:00:00
+StandardName: Russia TZ 1 Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Sudan Standard Time
+DisplayName: (UTC+02:00) Khartoum
+Offset: 02:00:00
+StandardName: Sudan Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Libya Standard Time
+DisplayName: (UTC+02:00) Tripoli
+Offset: 02:00:00
+StandardName: Libya Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Namibia Standard Time
+DisplayName: (UTC+02:00) Windhoek
+Offset: 02:00:00
+StandardName: Namibia Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Arabic Standard Time
+DisplayName: (UTC+03:00) Baghdad
+Offset: 03:00:00
+StandardName: Arabic Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Turkey Standard Time
+DisplayName: (UTC+03:00) Istanbul
+Offset: 03:00:00
+StandardName: Turkey Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Arab Standard Time
+DisplayName: (UTC+03:00) Kuwait, Riyadh
+Offset: 03:00:00
+StandardName: Arab Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Belarus Standard Time
+DisplayName: (UTC+03:00) Minsk
+Offset: 03:00:00
+StandardName: Belarus Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Russian Standard Time
+DisplayName: (UTC+03:00) Moscow, St. Petersburg
+Offset: 03:00:00
+StandardName: Russia TZ 2 Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: E. Africa Standard Time
+DisplayName: (UTC+03:00) Nairobi
+Offset: 03:00:00
+StandardName: E. Africa Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Iran Standard Time
+DisplayName: (UTC+03:30) Tehran
+Offset: 03:30:00
+StandardName: Iran Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Arabian Standard Time
+DisplayName: (UTC+04:00) Abu Dhabi, Muscat
+Offset: 04:00:00
+StandardName: Arabian Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Astrakhan Standard Time
+DisplayName: (UTC+04:00) Astrakhan, Ulyanovsk
+Offset: 04:00:00
+StandardName: Astrakhan Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Azerbaijan Standard Time
+DisplayName: (UTC+04:00) Baku
+Offset: 04:00:00
+StandardName: Azerbaijan Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Russia Time Zone 3
+DisplayName: (UTC+04:00) Izhevsk, Samara
+Offset: 04:00:00
+StandardName: Russia TZ 3 Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Mauritius Standard Time
+DisplayName: (UTC+04:00) Port Louis
+Offset: 04:00:00
+StandardName: Mauritius Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Saratov Standard Time
+DisplayName: (UTC+04:00) Saratov
+Offset: 04:00:00
+StandardName: Saratov Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Georgian Standard Time
+DisplayName: (UTC+04:00) Tbilisi
+Offset: 04:00:00
+StandardName: Georgian Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Volgograd Standard Time
+DisplayName: (UTC+04:00) Volgograd
+Offset: 04:00:00
+StandardName: Volgograd Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Caucasus Standard Time
+DisplayName: (UTC+04:00) Yerevan
+Offset: 04:00:00
+StandardName: Caucasus Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Afghanistan Standard Time
+DisplayName: (UTC+04:30) Kabul
+Offset: 04:30:00
+StandardName: Afghanistan Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: West Asia Standard Time
+DisplayName: (UTC+05:00) Ashgabat, Tashkent
+Offset: 05:00:00
+StandardName: West Asia Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Ekaterinburg Standard Time
+DisplayName: (UTC+05:00) Ekaterinburg
+Offset: 05:00:00
+StandardName: Russia TZ 4 Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Pakistan Standard Time
+DisplayName: (UTC+05:00) Islamabad, Karachi
+Offset: 05:00:00
+StandardName: Pakistan Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: India Standard Time
+DisplayName: (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Offset: 05:30:00
+StandardName: India Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Sri Lanka Standard Time
+DisplayName: (UTC+05:30) Sri Jayawardenepura
+Offset: 05:30:00
+StandardName: Sri Lanka Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Nepal Standard Time
+DisplayName: (UTC+05:45) Kathmandu
+Offset: 05:45:00
+StandardName: Nepal Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Central Asia Standard Time
+DisplayName: (UTC+06:00) Astana
+Offset: 06:00:00
+StandardName: Central Asia Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Bangladesh Standard Time
+DisplayName: (UTC+06:00) Dhaka
+Offset: 06:00:00
+StandardName: Bangladesh Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Omsk Standard Time
+DisplayName: (UTC+06:00) Omsk
+Offset: 06:00:00
+StandardName: Omsk Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Myanmar Standard Time
+DisplayName: (UTC+06:30) Yangon (Rangoon)
+Offset: 06:30:00
+StandardName: Myanmar Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: SE Asia Standard Time
+DisplayName: (UTC+07:00) Bangkok, Hanoi, Jakarta
+Offset: 07:00:00
+StandardName: SE Asia Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Altai Standard Time
+DisplayName: (UTC+07:00) Barnaul, Gorno-Altaysk
+Offset: 07:00:00
+StandardName: Altai Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: W. Mongolia Standard Time
+DisplayName: (UTC+07:00) Hovd
+Offset: 07:00:00
+StandardName: W. Mongolia Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: North Asia Standard Time
+DisplayName: (UTC+07:00) Krasnoyarsk
+Offset: 07:00:00
+StandardName: Russia TZ 6 Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: N. Central Asia Standard Time
+DisplayName: (UTC+07:00) Novosibirsk
+Offset: 07:00:00
+StandardName: Novosibirsk Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Tomsk Standard Time
+DisplayName: (UTC+07:00) Tomsk
+Offset: 07:00:00
+StandardName: Tomsk Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: China Standard Time
+DisplayName: (UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi
+Offset: 08:00:00
+StandardName: China Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: North Asia East Standard Time
+DisplayName: (UTC+08:00) Irkutsk
+Offset: 08:00:00
+StandardName: Russia TZ 7 Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Singapore Standard Time
+DisplayName: (UTC+08:00) Kuala Lumpur, Singapore
+Offset: 08:00:00
+StandardName: Malay Peninsula Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: W. Australia Standard Time
+DisplayName: (UTC+08:00) Perth
+Offset: 08:00:00
+StandardName: W. Australia Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Taipei Standard Time
+DisplayName: (UTC+08:00) Taipei
+Offset: 08:00:00
+StandardName: Taipei Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Ulaanbaatar Standard Time
+DisplayName: (UTC+08:00) Ulaanbaatar
+Offset: 08:00:00
+StandardName: Ulaanbaatar Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Aus Central W. Standard Time
+DisplayName: (UTC+08:45) Eucla
+Offset: 08:45:00
+StandardName: Aus Central W. Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Transbaikal Standard Time
+DisplayName: (UTC+09:00) Chita
+Offset: 09:00:00
+StandardName: Transbaikal Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Tokyo Standard Time
+DisplayName: (UTC+09:00) Osaka, Sapporo, Tokyo
+Offset: 09:00:00
+StandardName: Tokyo Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: North Korea Standard Time
+DisplayName: (UTC+09:00) Pyongyang
+Offset: 09:00:00
+StandardName: North Korea Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Korea Standard Time
+DisplayName: (UTC+09:00) Seoul
+Offset: 09:00:00
+StandardName: Korea Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Yakutsk Standard Time
+DisplayName: (UTC+09:00) Yakutsk
+Offset: 09:00:00
+StandardName: Russia TZ 8 Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Cen. Australia Standard Time
+DisplayName: (UTC+09:30) Adelaide
+Offset: 09:30:00
+StandardName: Cen. Australia Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: AUS Central Standard Time
+DisplayName: (UTC+09:30) Darwin
+Offset: 09:30:00
+StandardName: AUS Central Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: E. Australia Standard Time
+DisplayName: (UTC+10:00) Brisbane
+Offset: 10:00:00
+StandardName: E. Australia Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: AUS Eastern Standard Time
+DisplayName: (UTC+10:00) Canberra, Melbourne, Sydney
+Offset: 10:00:00
+StandardName: AUS Eastern Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: West Pacific Standard Time
+DisplayName: (UTC+10:00) Guam, Port Moresby
+Offset: 10:00:00
+StandardName: West Pacific Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Tasmania Standard Time
+DisplayName: (UTC+10:00) Hobart
+Offset: 10:00:00
+StandardName: Tasmania Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Vladivostok Standard Time
+DisplayName: (UTC+10:00) Vladivostok
+Offset: 10:00:00
+StandardName: Russia TZ 9 Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Lord Howe Standard Time
+DisplayName: (UTC+10:30) Lord Howe Island
+Offset: 10:30:00
+StandardName: Lord Howe Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Bougainville Standard Time
+DisplayName: (UTC+11:00) Bougainville Island
+Offset: 11:00:00
+StandardName: Bougainville Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Russia Time Zone 10
+DisplayName: (UTC+11:00) Chokurdakh
+Offset: 11:00:00
+StandardName: Russia TZ 10 Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Magadan Standard Time
+DisplayName: (UTC+11:00) Magadan
+Offset: 11:00:00
+StandardName: Magadan Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Norfolk Standard Time
+DisplayName: (UTC+11:00) Norfolk Island
+Offset: 11:00:00
+StandardName: Norfolk Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Sakhalin Standard Time
+DisplayName: (UTC+11:00) Sakhalin
+Offset: 11:00:00
+StandardName: Sakhalin Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Central Pacific Standard Time
+DisplayName: (UTC+11:00) Solomon Is., New Caledonia
+Offset: 11:00:00
+StandardName: Central Pacific Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Russia Time Zone 11
+DisplayName: (UTC+12:00) Anadyr, Petropavlovsk-Kamchatsky
+Offset: 12:00:00
+StandardName: Russia TZ 11 Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: New Zealand Standard Time
+DisplayName: (UTC+12:00) Auckland, Wellington
+Offset: 12:00:00
+StandardName: New Zealand Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: UTC+12
+DisplayName: (UTC+12:00) Coordinated Universal Time+12
+Offset: 12:00:00
+StandardName: UTC+12
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Fiji Standard Time
+DisplayName: (UTC+12:00) Fiji
+Offset: 12:00:00
+StandardName: Fiji Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Kamchatka Standard Time
+DisplayName: (UTC+12:00) Petropavlovsk-Kamchatsky - Old
+Offset: 12:00:00
+StandardName: Kamchatka Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Chatham Islands Standard Time
+DisplayName: (UTC+12:45) Chatham Islands
+Offset: 12:45:00
+StandardName: Chatham Islands Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: UTC+13
+DisplayName: (UTC+13:00) Coordinated Universal Time+13
+Offset: 13:00:00
+StandardName: UTC+13
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Tonga Standard Time
+DisplayName: (UTC+13:00) Nuku'alofa
+Offset: 13:00:00
+StandardName: Tonga Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Samoa Standard Time
+DisplayName: (UTC+13:00) Samoa
+Offset: 13:00:00
+StandardName: Samoa Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ID: Line Islands Standard Time
+DisplayName: (UTC+14:00) Kiritimati Island
+Offset: 14:00:00
+StandardName: Line Islands Standard Time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

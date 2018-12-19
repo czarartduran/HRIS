@@ -89,6 +89,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\database_tamplate.mdf" />
+    <Content Include="App_Data\database_tamplate_log.ldf">
+      <DependentUpon>database_tamplate.mdf</DependentUpon>
+    </Content>
     <Content Include="Contents\Images\evolving_google_identity_share.jpg" />
     <Content Include="Contents\Images\loading.gif" />
     <Content Include="Contents\Images\loading_trans.gif" />
@@ -150,7 +154,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
     <Folder Include="Contents\Icons\" />
     <Folder Include="Contents\Logo\" />
   </ItemGroup>
