@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRIS", "HRIS\HRIS.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_Template", "WebApplication_Template\WebApplication_Template.csproj", "{5C720B30-9407-44EB-B618-57092232FC6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{931D99E9-F637-407B-9F04-CCAD2F5D08AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{A93A15FB-2769-4B23-9674-01CB0DA8D902}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{5C720B30-9407-44EB-B618-57092232FC6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C720B30-9407-44EB-B618-57092232FC6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C720B30-9407-44EB-B618-57092232FC6F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{931D99E9-F637-407B-9F04-CCAD2F5D08AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{931D99E9-F637-407B-9F04-CCAD2F5D08AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{931D99E9-F637-407B-9F04-CCAD2F5D08AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{931D99E9-F637-407B-9F04-CCAD2F5D08AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A93A15FB-2769-4B23-9674-01CB0DA8D902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93A15FB-2769-4B23-9674-01CB0DA8D902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93A15FB-2769-4B23-9674-01CB0DA8D902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93A15FB-2769-4B23-9674-01CB0DA8D902}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
