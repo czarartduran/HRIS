@@ -1,0 +1,128 @@
+﻿*
+{
+    font-size: 10pt;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+body
+{
+    min-width: 800px;
+    min-height: 600px;
+    width: 100%;
+    height: 100vh;
+    margin: 0px;
+    border: none;
+    border-collapse: collapse;
+    padding: 0px;
+}
+
+.login_container
+{
+    /*style*/
+    min-width: 320px;
+    width: 25%;
+    margin: 0px auto;
+    padding: 100px 0px;
+}
+
+.logo_container
+{
+    /*style*/
+    width: 100%;
+}
+
+.logo_holder
+{
+    /*style*/
+    width: 100%;
+}
+
+    .logo_holder img
+    {
+        /*style*/
+        width: 100%;
+        height: auto;
+    }
+
+.control_container
+{
+    /*style*/
+    width: 100%;
+}
+
+    .control_container input[type=text], .control_container input[type=password]
+    {
+        width: calc(100% - 4px - 6px);
+        height: auto;
+        margin: 2px 0px;
+        border: 1px solid #2d2d2d;
+        padding: 5px 3px;
+        float: left;
+    }
+
+    .control_container input[type=button]
+    {
+        width: 100%;
+        height: auto;
+        margin: 2px 0px;
+        border: 1px solid transparent;
+        padding: 5px 0px;
+        background-color: white;
+        cursor: pointer;
+    }
+
+#forgotpass_btn
+{
+    text-align: right;
+    padding: 0px;
+}
+
+    #forgotpass_btn:hover
+    {
+        color: blue;
+    }
+
+#login_btn
+{
+    background-color: #0067b8;
+    color: white;
+}
+
+    #login_btn:hover
+    {
+        background-color: #4e96ce;
+    }
+
+#cancel_btn
+{
+    background-color: #2d2d2d;
+    color: white;
+}
+
+    #cancel_btn:hover
+    {
+        background-color: #3a3636;
+    }
+
+#loading_container
+{
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    float: left;
+    top: 0px;
+}
+
+#loading_container .loading_holder
+{
+    width: 10%;
+    margin: 0 auto;
+    padding: 100px 0px 0px 0px;
+}
+
+#loading_container .loading_holder img
+{
+    width: 100%;
+}

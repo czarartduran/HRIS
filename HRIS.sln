@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRIS", "HRIS\HRIS.csproj", "{3EF9FB26-2683-453F-A9F0-FFDA8E7E99BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_Template", "WebApplication_Template\WebApplication_Template.csproj", "{5C720B30-9407-44EB-B618-57092232FC6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{931D99E9-F637-407B-9F04-CCAD2F5D08AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EF9FB26-2683-453F-A9F0-FFDA8E7E99BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF9FB26-2683-453F-A9F0-FFDA8E7E99BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF9FB26-2683-453F-A9F0-FFDA8E7E99BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF9FB26-2683-453F-A9F0-FFDA8E7E99BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C720B30-9407-44EB-B618-57092232FC6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C720B30-9407-44EB-B618-57092232FC6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C720B30-9407-44EB-B618-57092232FC6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C720B30-9407-44EB-B618-57092232FC6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931D99E9-F637-407B-9F04-CCAD2F5D08AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931D99E9-F637-407B-9F04-CCAD2F5D08AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931D99E9-F637-407B-9F04-CCAD2F5D08AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931D99E9-F637-407B-9F04-CCAD2F5D08AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

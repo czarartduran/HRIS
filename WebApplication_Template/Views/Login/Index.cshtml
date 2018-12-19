@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Web Application Name - Login</title>
+
+    <script src="~/JavaScriptFrameworks/jQuery/jquery-3.3.1.min.js"></script>
+    <link href="~/StyleSheets/login.css" rel="stylesheet" />
+    <script src="~/JavaScripts/login.js"></script>
+</head>
+<body>
+    <div class="login_container">
+        <div class="logo_container">
+            <div class="logo_holder">
+                <a href="//www.google.com"><img src="~/Contents/Images/evolving_google_identity_share.jpg" /></a>
+            </div>
+        </div>
+        <div class="control_container">
+            <input id="username_tb" type="text" placeholder="Username" title="Username" />
+            <input id="password_tb" type="password" placeholder="Password" title="Password" />
+            <input id="forgotpass_btn" type="button" title="Click to retrieve account" value="Forgot Password" onclick="forgotpass_tb_OnClick()" />
+            <input id="login_btn" type="button" title="Click to login" value="Login" onclick="login_btn_OnClick()" />
+            <input id="cancel_btn" type="button" title="Click to cancel" value="Cancel" onclick="cancel_btn_OnClick()" />
+        </div>
+    </div>
+    <div id="loading_container">
+        <div class="loading_holder">
+            <img src="~/Contents/Images/loading_trans.gif" />
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,216 @@
+﻿*
+{
+    font-size: 10pt;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+body
+{
+    min-width: 800px;
+    min-height: 600px;
+    width: 100%;
+    height: 100vh;
+    margin: 0px;
+    border: none;
+    border-collapse: collapse;
+    padding: 0px;
+    overflow: hidden;
+}
+
+input[type=button], input[type=submit]
+{
+    cursor: pointer;
+}
+
+#loading_container
+{
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    float: left;
+    top: 0px;
+}
+
+    #loading_container .loading_holder
+    {
+        width: 10%;
+        margin: 0 auto;
+        padding: 100px 0px 0px 0px;
+    }
+
+        #loading_container .loading_holder img
+        {
+            width: 100%;
+        }
+
+#main_body
+{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+    #main_body #bannernav_container
+    {
+        float: left;
+        width: 100%;
+        overflow: hidden;
+    }
+
+        #main_body #bannernav_container #banner_container
+        {
+            width: 100%;
+            min-height: 50px;
+            height: 10vh;
+            background-color: white;
+        }
+
+            #main_body #bannernav_container #banner_container #banner_holder
+            {
+                width: auto;
+                height: 100%;
+                background-color: white;
+                float: left;
+            }
+
+                #main_body #bannernav_container #banner_container #banner_holder img
+                {
+                    height: 100%;
+                }
+
+        #main_body #bannernav_container #navigation_container
+        {
+            width: calc(100% - 5px);
+            height: auto;
+            padding: 0px 0px 0px 5px;
+            background-color: #2d2d2d;
+        }
+
+    #main_body #webApp_body
+    {
+        width: 100%;
+        float: left;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+
+/*Profile*/
+.profile_container
+{
+    float: right;
+    width: auto;
+    height: 100%;
+    padding: 0px 5px 0px 0px;
+    background-color: #0067b8;
+    cursor: pointer;
+}
+
+    .profile_container .profilepic
+    {
+        width: auto;
+        height: 100%;
+        background-color: #2d2d2d;
+    }
+
+    .profile_container:hover .profilecons_container
+    {
+        z-index: 999;
+        cursor: pointer;
+        display: block;
+    }
+
+    .profile_container .profilepic img
+    {
+        width: auto;
+        height: 100%;
+    }
+
+.profilecons_container
+{
+    display: none;
+    position: absolute;
+    float: left;
+    right: 0px;
+    max-width: 200px;
+}
+
+    .profilecons_container input[type=button]
+    {
+        text-align: right;
+        float: right;
+        width: 100%;
+        margin: 0px;
+        border: none;
+        padding: 5px 20px;
+        background-color: #2d2d2d;
+        color: white;
+    }
+
+        .profilecons_container input[type=button]:hover
+        {
+            cursor: pointer;
+            color: white;
+            background-color: #0067b8;
+        }
+
+/*Navigation*/
+.navbar
+{
+    padding: 2px 0px;
+    overflow: hidden;
+}
+
+    .navbar input[type=button]
+    {
+        float: left;
+        color: white;
+        text-align: center;
+        padding: 10px 16px;
+        text-decoration: none;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        border-left: 1px solid white;
+    }
+
+        .navbar input[type=button]:hover
+        {
+            background-color: #0067b8;
+        }
+
+/*dropdown*/
+.nav_drop_container
+{
+    float: left;
+    overflow: hidden;
+}
+
+    .nav_drop_container input[type=button]
+    {
+        float: none;
+    }
+
+.nav_lvl2_container
+{
+    display: none;
+    position: absolute;
+    float: left;
+    z-index: 1;
+    background-color: #2d2d2d;
+    max-width: 200px;
+}
+
+    .nav_lvl2_container input[type=button]
+    {
+        width: 100%;
+        text-align: left;
+        float: left;
+        display: block;
+    }
+
+.nav_drop_container:hover .nav_lvl2_container
+{
+    display: block;
+}

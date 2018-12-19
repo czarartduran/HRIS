@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <link href="~/StyleSheets/LayoutPageMaster.css" rel="stylesheet" />
+    <script src="~/JavaScriptFrameworks/jQuery/jquery-3.3.1.min.js"></script>
+    <script src="~/JavaScripts/LayoutPageMaster.js"></script>
+
+    <!--Navigation Scripts-->
+    <script src="~/JavaScripts/LayoutPagemaster_Nav.js"></script>
+</head>
+<body>
+    <div id="loading_container">
+        <div class="loading_holder">
+            <img src="~/Contents/Images/loading_trans.gif" />
+        </div>
+    </div>
+    <div id="main_body">
+        <div id="bannernav_container">
+            <div id="banner_container">
+                <div id="banner_holder">
+                    <img src="~/Contents/Images/evolving_google_identity_share.jpg" />
+                </div>
+                <div class="profile_container">
+                    <div class="profilepic">
+                        @*<img src="~/Contents/Images/loading_trans.gif" />*@
+                        <img id="profilepic_img" src="~/Contents/Images/profilepic.png" />
+                    </div>
+                    <div class="profilecons_container">
+                        @*<div style="width:100px; height: 100px;background-color:red;"></div>*@
+                        <input type="button" value="My Account" onclick="Home_OnClick()" />
+                        <input id="logout_btn" type="button" value="Logout" onclick="logout_btn_OnClick()" />
+                        <input type="button" value="Control" />
+                        <input type="button" value="Control" />
+                        <input type="button" value="Control" />
+                        <input type="button" value="Control" />
+                        <input type="button" value="Control" />
+                    </div>
+                </div>
+            </div>
+            <div id="navigation_container">
+                <div class="navbar">
+                    <input type="button" value="Home" onclick="Home_OnClick()" />
+                    <input type="button" value="Menu 1" onclick="Home_OnClick()" />
+                    <input type="button" value="Menu 2" onclick="Home_OnClick()" />
+                    <div class="nav_drop_container">
+                        <input class="nav_lvl1" type="button" value="Menu 3" onclick="Home_OnClick()" />
+                        <div class="nav_lvl2_container">
+                            <input type="button" value="My Account" onclick="Home_OnClick()" />
+                            <input id="logout_btn" type="button" value="Logout" onclick="logout_btn_OnClick()" />
+                            <input type="button" value="Control1" />
+                            <input type="button" value="Control2" />
+                            <input type="button" value="Control3" />
+                            <input type="button" value="Control4" />
+                            <input type="button" value="Control5" />
+                        </div>
+                    </div>
+                    <input type="button" value="Menu 4" onclick="Home_OnClick()" />
+                    <input type="button" value="Menu 5" onclick="Home_OnClick()" />
+                    <input type="button" value="Menu 6" onclick="Home_OnClick()" />
+                    <div class="nav_drop_container">
+                        <input class="nav_lvl1" type="button" value="Menu 7" onclick="Home_OnClick()" />
+                        <div class="nav_lvl2_container">
+                            <input type="button" value="My Account" onclick="Home_OnClick()" />
+                            <input id="logout_btn" type="button" value="Logout" onclick="logout_btn_OnClick()" />
+                            <input type="button" value="Control1" />
+                            <input type="button" value="Control2" />
+                            <input type="button" value="Control3" />
+                            <input type="button" value="Control4" />
+                            <input type="button" value="Control5" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--view container-->
+        <div id="webApp_body">
+            <!--all views goes here-->
+            @RenderBody()
+        </div>
+
+    </div>
+</body>
+</html>
