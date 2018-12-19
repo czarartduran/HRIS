@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="database_tamplate" Class="hrisDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=&quot;C:\Users\conczduran\Documents\Visual Studio 2015\Projects\HRIS\WebApplication_Template\App_Data\database_tamplate.mdf&quot;;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="database_tamplateConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.sp_RegisterTimeLog" Method="sp_RegisterTimeLog">
+    <Parameter Name="EID" Parameter="eID" Type="System.Int64" DbType="BigInt" />
+    <Parameter Name="Date_Registered" Parameter="date_Registered" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="Time_Registered" Parameter="time_Registered" Type="System.DateTime" DbType="DateTime" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>
